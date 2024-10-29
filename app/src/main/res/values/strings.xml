@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Midterm1GSi89859</string>
+
+    <string name="splashScreenText">Are you ready?</string>
+    <string name="imageContentDescription">Welcome Image</string>
+    <string name="name">Gurpinder Singh</string>
+    <string name="id"> 300389859</string>
+    <string name="enterGamebtn">Enter Game</string>
+    <string name="hintbtn">Hint</string>
+    <string name="contentDescription">Enter a Random Number</string>
+    <string name="guessBtn">Guess</string>
+    <string name="resetBtn">Reset Game</string>
+
+</resources>
